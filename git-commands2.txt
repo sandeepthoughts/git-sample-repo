@@ -1,8 +1,8 @@
 git status -> Prints the status of Git Repository.
 git init -> Initalizes the Git Repository.
-git config --global user.name "Let's Kode It"
+git config --global user.name "Let's Kode It" -> specify username for all the repository
 git config --global user.email letskodeit@gmail.com
-git config user.name "Let's Kode It"
+git config user.name "Let's Kode It"   -> specify path foe one repository
 git config user.email letskodeit@gmail.com
 git add
 git commit -m ""
