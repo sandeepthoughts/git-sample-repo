@@ -10,6 +10,7 @@ git commit -m ""
 git log  -> Till us the history of the file
 git diff<filename>
 ------------------------------
++++++++++++++++++++++++++++
 
 git status -> Prints the status of Git Repository.
 git init -> Initalizes the Git Repository.
@@ -55,5 +56,5 @@ Work on different branches
          |			|
 ------Master------Release----Master---Master----Release-----Master----
 	 |				|
-	 |				|  Pull
+	 |				|  Pull and then merge
 	 PrivateBranch2------------------
